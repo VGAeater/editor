@@ -1,0 +1,1 @@
+data:text/html,<script>x=new XMLHttpRequest();x.open("GET","https://raw.githubusercontent.com/VGAeater/editor/main/link",!1);x.send();document.write(x.responseText);</script>
